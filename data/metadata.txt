@@ -1,0 +1,22 @@
+For description of data collection see the paper: "Evolution of herbs: Key to the conundrum might be tolerance not avoidance"
+
+File "dat_he.csv": Data with results of the herbivory experiment.
+spec - shortcut of species name
+treat - treated individual (1) or control one (0)
+plainw - largest dimension of plain view (cm)
+plainw_start - plain view before the treatment
+length - stretched length of plants (cm)
+length_start - length before the treatment
+alive - plant was alive (1) after the treatment or dead (0)
+
+File "dat_sf.csv": Data with results of the spring freezing experiment.
+nleaves - number of leaves
+nleaves_start - number of leaves before the treatment
+(for other variables see above)
+
+File "dat_wf.csv":  Data with results of the winter freezing experiment.
+bio - aboveground biomass (g)
+bion - new (from the second year) aboveground biomass (g) 
+
+File "spec_codes.csv": File with full species names
+Woody - species is woody (1) or herbaceous (0)
